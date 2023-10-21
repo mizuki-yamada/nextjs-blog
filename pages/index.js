@@ -22,6 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>[山田瑞季の自己紹介]</p>
+        <p>[Mizuki Self Introduction]</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
